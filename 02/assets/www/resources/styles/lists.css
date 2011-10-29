@@ -1,0 +1,40 @@
+.eventsList .x-list-item .calDate {
+	font-size:24px;
+}
+
+.eventsList .x-list-item .calEvent * {
+	font-size:20px;
+	padding:5px 5px;
+	margin:0px;
+}
+.eventsList .x-list-item .calEvent .even {
+  font-size:20px;
+  background-color:#AAA;
+}
+.eventsList .x-list-item .calEvent .odd {
+  font-size:20px;
+  background-color:#BBB;
+}
+
+.eventsList .x-list-header {
+    border-bottom: 2px solid #99bbe8;
+    cursor:pointer;
+    font-size:20px;
+    font-family:"Trebuchet MS";
+}
+
+.eventDetail .event {
+	background-color:#DDD;
+}
+
+.eventDetail .event .title {
+	font-size:24px;
+	font-weight:bold;
+	font-family:"Trebuchet MS";
+	margin: 0px 10px;
+}
+
+.eventDetail .event .creator {
+	color:#444;
+	margin:0px 20px;
+}
